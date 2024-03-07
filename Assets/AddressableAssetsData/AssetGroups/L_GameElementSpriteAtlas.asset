@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: L_GameElementSpriteAtlas
+  m_EditorClassIdentifier: 
+  m_GroupName: L_GameElementSpriteAtlas
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 3b009d47b99ba6344ba4f2d2517e7334
+  m_SerializeEntries:
+  - m_GUID: 6557646d2c84ac64d9013d626c297bc5
+    m_Address: SA_Bricks
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - SpriteAtlas
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 181c90d390f0584418c669b8e31cad4d, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: fcfeaef8c753b544c8ddac935c056213, type: 2}
+    - {fileID: 11400000, guid: 141cf92535a82a24da0e1a5fdad47311, type: 2}

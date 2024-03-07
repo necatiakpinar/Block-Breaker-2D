@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7853af4e4013427ba6e403eac8b0340c, type: 3}
+  m_Name: SO_VFXContainer
+  m_EditorClassIdentifier: 
+  _gameplayVFXes:
+  - key: VFX_BasicHitParticle
+    _vfxObject: {fileID: 6491261338445798816, guid: 7166ddce9ca2dbd47b2dfd25a98757d8, type: 3}
+    _isPoolObject: 1
+    _poolSize: 40
